@@ -4,7 +4,36 @@ export default function Page() {
   return (
     <main>
       <h1>Page</h1>
-      <Image src="/next.svg" alt="" width={300} height={300} />
+      <Image src="/image.jpeg" alt="" width={700} height={700} />
+      {/* lorem text 500 characters inside div */}
+      <div>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam
+        voluptatibus, quibusdam, quia, quos voluptatem voluptatum quod
+        consequuntur voluptas quas doloribus natus. Quisquam voluptatibus,
+        quibusdam, quia, quos voluptatem voluptatum quod consequuntur voluptas
+        quas doloribus natus. Quisquam voluptatibus, quibusdam, quia, quos
+        voluptatem voluptatum quod consequuntur voluptas quas doloribus natus.
+        Quisquam voluptatibus, quibusdam, quia, quos voluptatem voluptatum quod
+        consequuntur voluptas quas doloribus natus. Quisquam voluptatibus,
+        quibusdam, quia, quos voluptatem voluptatum quod consequuntur voluptas
+        quas doloribus natus. Quisquam voluptatibus, quibusdam, quia, quos
+        voluptatem voluptatum quod consequuntur voluptas quas doloribus natus.
+        Quisquam voluptatibus, quibusdam, quia, quos voluptatem voluptatum quod
+        consequuntur voluptas quas doloribus natus. Quisquam voluptatibus,
+        quibusdam, quia, quos voluptatem voluptatum quod consequuntur voluptas
+        quas doloribus natus. Quisquam voluptatibus, quibusdam, quia, quos
+        voluptatem voluptatum quod consequuntur voluptas quas doloribus natus.
+        Quisquam voluptatibus, quibusdam, quia, quos voluptatem voluptatum quod
+        consequuntur voluptas quas doloribus natus. Quisquam voluptatibus,
+        quibusdam, quia, quos voluptatem voluptatum quod consequuntur voluptas
+        quas doloribus natus. Quisquam voluptatibus, quibusdam, quia, quos
+        voluptatem voluptatum quod consequuntur voluptas quas doloribus natus.
+        Quisquam voluptatibus, quibusdam, quia, quos voluptatem voluptatum quod
+        consequuntur voluptas quas doloribus natus. Quisquam voluptatibus,
+        quibusdam, quia, quos voluptatem voluptatum quod consequuntur voluptas
+        quas doloribus natus. Quisquam voluptatibus, quibusdam, quia, quos
+        voluptatem voluptatum quod consequuntur voluptas quas doloribus natus.
+      </div>
     </main>
   );
 }
