@@ -26,6 +26,9 @@ export default function RootLayout({
             </Link>{' '}
             <Link data-test-id="page" href="/page">
               page
+            </Link>{' '}
+            <Link data-test-id="timeout" href="/timeout">
+              timeout
             </Link>
           </div>
         </nav>
