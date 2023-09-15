@@ -4,7 +4,7 @@ function delay() {
   return new Promise<void>((resolve) => {
     setTimeout(() => {
       resolve();
-    }, 4000);
+    }, 10000);
   });
 }
 
