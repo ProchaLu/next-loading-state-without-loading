@@ -1,6 +1,3 @@
-export const dynamic = 'force-dynamic';
-export const revalidate = 0;
-
 export default async function GeneratePokemon() {
   async function getPokemon() {
     const response = await fetch(
