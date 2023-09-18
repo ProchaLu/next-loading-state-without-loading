@@ -12,6 +12,7 @@ export default function SetCookie() {
 
   return (
     <form>
+      <h1>set cookie</h1>
       <textarea
         data-test-id="input-field"
         name="session"
