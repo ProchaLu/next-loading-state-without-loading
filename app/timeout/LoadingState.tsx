@@ -21,7 +21,7 @@ export default function LoadingState() {
   return (
     <div>
       <h1>Loading Page</h1>
-      {data?.map((item) => {
+      {data.map((item) => {
         return <div key={`item-${item}`}>{item}</div>;
       })}
     </div>

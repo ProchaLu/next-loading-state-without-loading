@@ -30,6 +30,9 @@ export default function RootLayout({
             <Link data-test-id="timeout" href="/timeout">
               timeout
             </Link>{' '}
+            <Link data-test-id="timeout-server" href="/timeout-server">
+              timeout server
+            </Link>{' '}
             <Link data-test-id="fetch" href="/fetch">
               fetch
             </Link>
