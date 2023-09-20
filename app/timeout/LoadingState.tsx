@@ -10,7 +10,7 @@ function delay() {
 }
 
 export default function LoadingState() {
-  const [data, setData] = useState<string[] | undefined>();
+  const [data, setData] = useState<string[]>([]);
   useEffect(() => {
     delay()
       .then(() => {
