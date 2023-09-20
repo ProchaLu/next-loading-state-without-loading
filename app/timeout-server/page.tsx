@@ -1,5 +1,7 @@
 // create a page with a timeout server side
 
+export const dynamic = 'force-dynamic';
+
 function delay() {
   return new Promise<void>((resolve) => {
     setTimeout(() => {
