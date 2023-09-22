@@ -11,7 +11,7 @@
   "dependencies": {
     "@netlify/plugin-nextjs": "^4.36.1",
     "@types/node": "20.5.1",
-    "next": "13.4.20-canary.3",
+    "next": "13.4.19",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "sass": "^1.66.1",
